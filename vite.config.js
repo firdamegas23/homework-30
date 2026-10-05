@@ -7,7 +7,8 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        tugas29_1: "tugas29-1.html"
+        tugas29_1: "tugas29-1.html",
+        tugas29_2: "tugas29-2.html"
       }
     }
   }
