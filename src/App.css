@@ -23,6 +23,20 @@ nav a:hover {
   color: yellow;
 }
 
+div {
+  margin: 10px;
+}
+
+.hover-box {
+  background-color: skyblue;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid darkblue;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
